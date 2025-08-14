@@ -1,4 +1,5 @@
 quick heap implementation
+
 focuses:
 * raii
 * rule of 5
